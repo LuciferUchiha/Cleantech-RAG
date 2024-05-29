@@ -1,0 +1,4 @@
+.venv
+chromadb/
+**/.DS_Store
+.env
