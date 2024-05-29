@@ -20,7 +20,7 @@ To run this notebook we recommend downloading the provided [GitHub repository](h
 - A Google account for Google Colab
 - Python packages (automatically installed within the notebook)
 
-We then recommend creating a zip from the `data` folder and uploading this to the Google Colab environment. You will then be provided with files that contain checkpoints for all of the expensive processing sections such as chunking, generating embeddings and evaluating the pipeline with an LLM as a judge. This saves you money and a lot of time.
+At the start of the notebook a `data.zip` will be downloaded from a Google Drive and unzipped. This will then provide you with files that contain checkpoints for all of the expensive processing sections such as chunking, generating embeddings and evaluating the pipeline with an LLM as a judge. This saves you money and a lot of time.
 
 If you can't or don't want to run this notebook you can also view the completed notebook by opening the `cleantech_rag.html` file in your browser.
 
