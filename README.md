@@ -1,4 +1,4 @@
-# SDS 2024 - Cleantech RAG
+# Cleantech RAG
 
 By [Daniel Perruchoud](https://www.linkedin.com/in/daniel-olivier-perruchoud-799aaa38/) and [George Rowlands](https://www.linkedin.com/in/georgerowlands/)
 
