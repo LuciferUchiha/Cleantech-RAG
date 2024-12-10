@@ -16,7 +16,7 @@ Fine-tuning an LLM can be a resource-intensive and inflexible process. RAG offer
 
 To run this notebook we recommend downloading the provided [GitHub repository](https://github.com/LuciferUchiha/sds2024-cleantech-rag) and opening this notebook in [Google Colab](https://colab.research.google.com/). To ensure a smooth experience, you'll need:
 
-- An OpenAI API key for GPT-4 and embedding models
+- An OpenAI API key for GPT-4o
 - A Google account for Google Colab
 - Python packages (automatically installed within the notebook)
 
@@ -29,9 +29,9 @@ If you can't or don't want to run this notebook you can also view the completed 
 Throughout this notebook, we'll delve into the intricate workings of RAG pipelines. Prepare to explore:
 
 - Building a Robust RAG Pipeline:
-  - LLM: GPT-4 turbo
+  - LLM: GPT-4o
   - Semantic Search: ChromaDB with HNSW for fast retrieval
-  - Embedding Models: OpenAI, BGE-M3, all-MiniLM-L6-v2
+  - Embedding Models: Alibaba, BGE-M3, all-MiniLM-L6-v2
   - Chunking Strategies: Recursive (256 & 1024 chunk sizes) and Semantic Chunking
 - Understanding RAG's Inner Workings:
   - Examining the embedding space of news articles
